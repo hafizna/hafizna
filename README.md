@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently a Master of IT Student at UNSW Sydney, and I aspire to be able to code and make an impact for a better world.
 <!--
 **hafizna/hafizna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
